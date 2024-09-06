@@ -1,0 +1,12 @@
+
+url de API de clima: https://openweathermap.org/api/geocoding-api
+url de API key: https://home.openweathermap.org/api_keys
+
+https://openweathermap.org/current
+https://openweathermap.org/weather-conditions
+https://jsonformatter.curiousconcept.com/#
+
+video:
+https://youtu.be/ladwC6Lrs-M?t=21345
+
+
